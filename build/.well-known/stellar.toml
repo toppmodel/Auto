@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GCDQEIJSE7MPHG5W764T3ZUMTXLDQG2PKUFJLDAFFFQ4Y4Z7PWXLDLBA"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="Auto"
+ORG_URL="https://Auto.com/"
+ORG_DESCRIPTION="Auto is 100% decentralized and is run by our community of Inu Killers."
+ORG_TWITTER="@Auto"
+ORG_LOGO="https://i.ibb.co/dfxZ40Q/autofarm-icon-200x200.png"
+ORG_OFFICIAL_EMAIL="contact@Auto.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="Auto"
+issuer="GCDQEIJSE7MPHG5W764T3ZUMTXLDQG2PKUFJLDAFFFQ4Y4Z7PWXLDLBA"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
-conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
+name="Auto"
+desc="The AUTO token can be used for proposals voting and will receive fees earned from the protocol. AUTO initiated a community-fair-launched token distribution by ensuring that only vault users will have an opportunity to participate in the AUTO token vault mining programme."
+conditions="The total value locked (TVL) of the protocol went from $5 million to $537 million in less than two months, putting Autofarm on the third spot in TVL within the BSC ecosystem as of April 2021."
+image="https://i.ibb.co/dfxZ40Q/autofarm-icon-200x200.png"
 fixed_number=2000000
 max_number=2000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#Auto Token was issued using the open and inclusive Stellar blockchain network.
